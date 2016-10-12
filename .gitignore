@@ -1,0 +1,6 @@
+
+conf/pki/ca.crt
+conf/pki/dh2048.pem
+conf/pki/server.crt
+conf/pki/server.csr
+conf/pki/server.key
