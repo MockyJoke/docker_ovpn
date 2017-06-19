@@ -3,6 +3,7 @@
 #### Usage:
 
 git clone https://github.com/MockyJoke/docker_ovpn.git
+
 cd docker_ovpn
 
 docker build -t ovpn .
