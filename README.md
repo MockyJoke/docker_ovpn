@@ -5,7 +5,7 @@
     git clone https://github.com/MockyJoke/docker_ovpn.git
     cd docker_ovpn
 
-#### Usage:
+#### (Optional) Request Certs:
 
     /bin/bash request_cert.sh <your.domain.com> <your@email.com>
 
